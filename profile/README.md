@@ -2,9 +2,9 @@
 
 # Extropy
 
+[![web](https://img.shields.io/badge/web-c026d3?style=for-the-badge&logo=googlehome&logoColor=white)](https://extropy.sk)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9021919/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/extropy.sk)
-[![strava](https://img.shields.io/badge/strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/clubs/extropy)
 
 </div>
 
