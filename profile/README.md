@@ -23,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-262626?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/mongodb-262626?style=for-the-badge&logo=mongodb)
 
-![AWS](https://img.shields.io/badge/amazonaws-262626?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/aws-262626?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/vercel-262626?style=for-the-badge&logo=vercel)
 ![Docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
 ![Grafana](https://img.shields.io/badge/grafana-262626?style=for-the-badge&logo=grafana)
