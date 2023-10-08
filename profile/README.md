@@ -3,7 +3,7 @@
 # Extropy
 
 [![web](https://img.shields.io/badge/web-4708ce?style=for-the-badge&logo=googlehome&logoColor=white)](https://extropy.sk)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9021919/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/extropysk)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/extropy.sk)
 
 </div>
