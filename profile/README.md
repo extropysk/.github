@@ -9,7 +9,7 @@
 </div>
 
 ## About
-We're dedicated to providing you with cutting-edge solutions that fit your needs and amplify your abilities. Unleash your potential 🚀
+We're dedicated to providing you with software solutions that fit your needs and amplify your abilities. Unleash your potential 🚀
 
 ## Technologies
 ![React](https://img.shields.io/badge/React-262626?style=for-the-badge&logo=react)
