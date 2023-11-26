@@ -21,7 +21,7 @@ We're dedicated to providing you with software solutions that fit your needs and
 
 ![Node.js](https://img.shields.io/badge/node.js-262626?style=for-the-badge&logo=nodedotjs)
 ![NestJS](https://img.shields.io/badge/nestjs-262626?style=for-the-badge&logo=nestjs)
-![Hasura](https://img.shields.io/badge/hasura-262626?style=for-the-badge&logo=hasura)
+![Payload CMS](https://img.shields.io/badge/payload_cms-262626?style=for-the-badge&logo=payloadcms)
 ![Redis](https://img.shields.io/badge/redis-262626?style=for-the-badge&logo=redis)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-262626?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/mongodb-262626?style=for-the-badge&logo=mongodb)
