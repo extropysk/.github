@@ -10,7 +10,7 @@
 
 We're dedicated to providing you with software solutions that fit your needs and amplify your abilities. Unleash your potential 🚀
 
-### Technologies
+## Technologies
 ![React](https://img.shields.io/badge/React-262626?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/react_native-262626?style=for-the-badge&logo=expo)
 ![Next.js](https://img.shields.io/badge/next.js-262626?style=for-the-badge&logo=nextdotjs)
