@@ -8,21 +8,20 @@
 
 </div>
 
-We're dedicated to providing you with software solutions that fit your needs and amplify your abilities. Unleash your potential 🚀
+Empowering software developers with cutting-edge tools and insights to boost efficiency and enhance code quality. 
 
-## Technologies
-![Next.js](https://img.shields.io/badge/next.js-262626?style=for-the-badge&logo=nextdotjs)
+## Tech stack
+![React](https://img.shields.io/badge/React-262626?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/react_native-262626?style=for-the-badge&logo=expo)
+![Next.js](https://img.shields.io/badge/next.js-262626?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-262626?style=for-the-badge&logo=tailwindcss)
 
-![Node.js](https://img.shields.io/badge/node.js-262626?style=for-the-badge&logo=nodedotjs)
 ![NestJS](https://img.shields.io/badge/nestjs-262626?style=for-the-badge&logo=nestjs)
 ![Payload CMS](https://img.shields.io/badge/payload_cms-262626?style=for-the-badge&logo=payloadcms)
-
 ![PostgreSQL](https://img.shields.io/badge/postgresql-262626?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/mongodb-262626?style=for-the-badge&logo=mongodb)
-![Grafana](https://img.shields.io/badge/grafana-262626?style=for-the-badge&logo=grafana)
 
 ![AWS](https://img.shields.io/badge/aws-262626?style=for-the-badge&logo=amazon)
 ![Docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
+![Grafana](https://img.shields.io/badge/grafana-262626?style=for-the-badge&logo=grafana)
 ![GitHub](https://img.shields.io/badge/github-262626?style=for-the-badge&logo=github)
